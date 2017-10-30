@@ -1,0 +1,20 @@
+{
+  "name": "redux-async-catch",
+  "version": "0.1.0",
+  "description": "Async error catch middleware for Redux",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fantua/redux-async-catch.git"
+  },
+  "keywords": [
+    "redux",
+    "middleware",
+    "async",
+    "error",
+    "catch"
+  ],
+  "homepage": "https://github.com/fantua/redux-async-catch",
+  "author": "Igor Machuzhak <ihor3000@gmail.com>",
+  "license": "MIT"
+}
